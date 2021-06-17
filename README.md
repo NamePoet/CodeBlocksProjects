@@ -1,0 +1,2 @@
+# CodeBlocksProjects
+CodeBlocks : : Algorithm
